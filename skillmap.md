@@ -1,6 +1,6 @@
 # sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* name: Troy is making a tutorial
+* description: Uh oh. Someone had better check his speling.
 
 ## interface
 * name: Learn to use MakeCode Arcade
