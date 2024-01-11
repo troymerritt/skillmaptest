@@ -9,9 +9,9 @@
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Yo Antonio, I made it do this thing
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: You gotta use gthub to do it, but it seems straight forward enough...
 * tags: easy
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
